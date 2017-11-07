@@ -59,6 +59,7 @@
 		75B81EF01EA4C4D700EA0A52 /* UITextView+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 75B81EC81EA4C4D700EA0A52 /* UITextView+BlocksKit.m */; };
 		75B81EF11EA4C4D700EA0A52 /* UIView+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 75B81ECA1EA4C4D700EA0A52 /* UIView+BlocksKit.m */; };
 		75B81EF21EA4C4D700EA0A52 /* UIWebView+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 75B81ECC1EA4C4D700EA0A52 /* UIWebView+BlocksKit.m */; };
+		75EA457B1FB1838200D29B15 /* YFLearnGitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75EA457A1FB1838200D29B15 /* YFLearnGitViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -165,6 +166,8 @@
 		75B81ECA1EA4C4D700EA0A52 /* UIView+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+BlocksKit.m"; sourceTree = "<group>"; };
 		75B81ECB1EA4C4D700EA0A52 /* UIWebView+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWebView+BlocksKit.h"; sourceTree = "<group>"; };
 		75B81ECC1EA4C4D700EA0A52 /* UIWebView+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+BlocksKit.m"; sourceTree = "<group>"; };
+		75EA45791FB1838200D29B15 /* YFLearnGitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YFLearnGitViewController.h; sourceTree = "<group>"; };
+		75EA457A1FB1838200D29B15 /* YFLearnGitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YFLearnGitViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -261,6 +264,8 @@
 			children = (
 				75B0C35B1FB14EA200B75441 /* YFTestViewController.h */,
 				75B0C35C1FB14EA200B75441 /* YFTestViewController.m */,
+				75EA45791FB1838200D29B15 /* YFLearnGitViewController.h */,
+				75EA457A1FB1838200D29B15 /* YFLearnGitViewController.m */,
 			);
 			path = YFAdd;
 			sourceTree = "<group>";
@@ -519,6 +524,7 @@
 				75B81ED81EA4C4D700EA0A52 /* NSObject+BKAssociatedObjects.m in Sources */,
 				75B81EE71EA4C4D700EA0A52 /* UIActionSheet+BlocksKit.m in Sources */,
 				75B81EE81EA4C4D700EA0A52 /* UIAlertView+BlocksKit.m in Sources */,
+				75EA457B1FB1838200D29B15 /* YFLearnGitViewController.m in Sources */,
 				758F73221E4D8BF400374F9C /* UIImageView+YFAdd.m in Sources */,
 				75B0C35D1FB14EA200B75441 /* YFTestViewController.m in Sources */,
 				75B81ED11EA4C4D700EA0A52 /* NSMapTable+BlocksKit.m in Sources */,
