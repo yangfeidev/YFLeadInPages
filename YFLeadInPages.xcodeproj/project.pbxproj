@@ -194,6 +194,7 @@
 		75959A9E1E36F1E800F745C8 /* YFLeadInPages */ = {
 			isa = PBXGroup;
 			children = (
+				75B0C35A1FB14DD100B75441 /* YFAdd */,
 				75B81E741EA4C4D700EA0A52 /* BlocksKit */,
 				75A2C24F1E4C3E8F00A7CCF6 /* YFSearchViewController */,
 				75959AC21E36F44F00F745C8 /* YFLeadPageView */,
@@ -250,6 +251,13 @@
 				75A2C2541E4C3FAA00A7CCF6 /* YFHotSearchCell.m */,
 			);
 			path = YFSearchViewController;
+			sourceTree = "<group>";
+		};
+		75B0C35A1FB14DD100B75441 /* YFAdd */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = YFAdd;
 			sourceTree = "<group>";
 		};
 		75B0F0821E49654500CAF26D /* bootImages */ = {
