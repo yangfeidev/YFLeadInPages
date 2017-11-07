@@ -19,6 +19,7 @@
 		75993A881E52A3BF008EA939 /* UICollectionViewLeftAlignedLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 75993A871E52A3BF008EA939 /* UICollectionViewLeftAlignedLayout.m */; };
 		75A2C2521E4C3E8F00A7CCF6 /* YFSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75A2C2511E4C3E8F00A7CCF6 /* YFSearchViewController.m */; };
 		75A2C2551E4C3FAA00A7CCF6 /* YFHotSearchCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 75A2C2541E4C3FAA00A7CCF6 /* YFHotSearchCell.m */; };
+		75B0C35D1FB14EA200B75441 /* YFTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75B0C35C1FB14EA200B75441 /* YFTestViewController.m */; };
 		75B0F0871E49654500CAF26D /* four.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75B0F0831E49654500CAF26D /* four.jpeg */; };
 		75B0F0881E49654500CAF26D /* one.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75B0F0841E49654500CAF26D /* one.jpeg */; };
 		75B0F0891E49654500CAF26D /* three.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75B0F0851E49654500CAF26D /* three.jpeg */; };
@@ -82,6 +83,8 @@
 		75A2C2511E4C3E8F00A7CCF6 /* YFSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YFSearchViewController.m; sourceTree = "<group>"; };
 		75A2C2531E4C3FAA00A7CCF6 /* YFHotSearchCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YFHotSearchCell.h; sourceTree = "<group>"; };
 		75A2C2541E4C3FAA00A7CCF6 /* YFHotSearchCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YFHotSearchCell.m; sourceTree = "<group>"; };
+		75B0C35B1FB14EA200B75441 /* YFTestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YFTestViewController.h; sourceTree = "<group>"; };
+		75B0C35C1FB14EA200B75441 /* YFTestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YFTestViewController.m; sourceTree = "<group>"; };
 		75B0F0831E49654500CAF26D /* four.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = four.jpeg; sourceTree = "<group>"; };
 		75B0F0841E49654500CAF26D /* one.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = one.jpeg; sourceTree = "<group>"; };
 		75B0F0851E49654500CAF26D /* three.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = three.jpeg; sourceTree = "<group>"; };
@@ -256,6 +259,8 @@
 		75B0C35A1FB14DD100B75441 /* YFAdd */ = {
 			isa = PBXGroup;
 			children = (
+				75B0C35B1FB14EA200B75441 /* YFTestViewController.h */,
+				75B0C35C1FB14EA200B75441 /* YFTestViewController.m */,
 			);
 			path = YFAdd;
 			sourceTree = "<group>";
@@ -515,6 +520,7 @@
 				75B81EE71EA4C4D700EA0A52 /* UIActionSheet+BlocksKit.m in Sources */,
 				75B81EE81EA4C4D700EA0A52 /* UIAlertView+BlocksKit.m in Sources */,
 				758F73221E4D8BF400374F9C /* UIImageView+YFAdd.m in Sources */,
+				75B0C35D1FB14EA200B75441 /* YFTestViewController.m in Sources */,
 				75B81ED11EA4C4D700EA0A52 /* NSMapTable+BlocksKit.m in Sources */,
 				75B81EDE1EA4C4D700EA0A52 /* A2BlockInvocation.m in Sources */,
 				75B81EF11EA4C4D700EA0A52 /* UIView+BlocksKit.m in Sources */,
